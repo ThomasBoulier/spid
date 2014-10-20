@@ -1,22 +1,22 @@
 FAQ
 =====
 
-*à quoi sert GIT?*
+**à quoi sert GIT?**
 
-*Où le télécharger ?*
+**Où le télécharger ?**
 
-*Qu'est-ce qu'un commit ?*
+**Qu'est-ce qu'un commit ?**
 
-*Qu'est-ce qu'une branche ?*
+**Qu'est-ce qu'une branche ?**
 
-*Qu'est qu'un fork ?*
+**Qu'est qu'un fork ?**
 
-*un clone ?*
+**un clone ?**
 
-*un merge ?*
+**un merge ?**
 
-*un diff ?*
+**un diff ?**
 
-*À quoi sert .gitignore ?*
+**À quoi sert .gitignore ?**
 
-*Où sont stockées les configurations globales de Git ?*
+**Où sont stockées les configurations globales de Git ?**
