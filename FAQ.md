@@ -23,4 +23,4 @@ Un *clone* est une copie locale d'un projet. Il permet de travailer hors-ligne e
 Le *merge* est l'inverse de la *branche* C'est la fusion d'une branche dans l'autre, les versions étant fusionnées automatiquement si possible. 
 
 ####un diff ?
-Si la fusion automatique n'est pas possible, l'utilisateur doit choisir manuellement les options de fusion. Le diff permet l'affichage des différentes versions et le choix des elements de chaque version.
+Si la fusion automatique n'est pas possible, l'utilisateur doit choisir manuellement les options de fusion. Le *diff* permet l'affichage des différentes versions et le choix des elements de chaque version.
